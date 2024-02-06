@@ -1,3 +1,5 @@
+import numpy as np
+
 
 def MSE(y):
     mean = np.mean(y)
